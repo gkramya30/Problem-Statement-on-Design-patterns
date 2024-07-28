@@ -14,7 +14,7 @@ Problem Statement on Design patterns
 
   	i)Use Case 1: Factory Method Pattern
 
-    Scenario: Educational Quiz System
+    		Scenario: Educational Quiz System
      
 	ii)Use Case 2: Object Pool Pattern
 	
@@ -24,7 +24,7 @@ Problem Statement on Design patterns
 
   	i)Use Case 1: Adapter Pattern in Web Services
 
-			Scenario: Integrating Different Web Services in an Educational Platform
+		Scenario: Integrating Different Web Services in an Educational Platform
      
 	ii)Use Case 2: Decorator Pattern
 
