@@ -22,7 +22,7 @@ Problem Statement on Design patterns
 	
 3)Structural design pattern
 
-  	i)Use Case 3: Adapter Pattern in Web Services
+  	i)Use Case 1: Adapter Pattern in Web Services
 
 			Scenario: Integrating Different Web Services in an Educational Platform
      
