@@ -4,7 +4,7 @@ Problem Statement on Design patterns
 
   	i)Use Case 1: Iterator Pattern
     
-	Scenario: Student Gradebook
+     Scenario: Student Gradebook
      
  	ii)Use Case 2: Mediator Pattern
      
